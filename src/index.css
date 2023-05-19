@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background-color: #0B2434;
+  padding: 30px;
+  font-family: 'Karla', sans-serif;
+}
+main {
+  background-color: #F5F5F5;
+  height:90vh;
+  max-width: 800px;
+  border-radius: 5px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
